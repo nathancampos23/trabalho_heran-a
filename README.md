@@ -57,3 +57,4 @@ public class Main {
         System.out.println("Salário do gerente Carlos: R$" + manager1.calculateSalary());
     }
 }
+
